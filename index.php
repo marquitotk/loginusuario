@@ -9,6 +9,11 @@
     
 </head>
 <body>
-    
+    <form action="" method="post">
+        <h2>Login de Ingreso</h2>
+        <input type="text" name="usuario" placeholder="&#128512; usuario ">
+        <input type="text" name="clave" placeholder="&#128272; contraseña">
+        <input type="submit" value="Ingresar">
+    </form>
 </body>
 </html>
